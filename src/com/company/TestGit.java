@@ -11,7 +11,14 @@ public class TestGit {
         } else {
             System.out.println(a);
             // a--;
-        }
 
+            sample();
+        }
     }
+
+    public static void sample() {
+        System.out.println("This is newly generated tline in TestGit of Git Learning");
+    }
+
 }
+

@@ -23,6 +23,10 @@ public class Main {
     public static void statMethod1(){
 
         System.out.println("Calling from  concrete method to static method");
+
+        System.out.println("I have made new changes to the code");
+
+
     }
 
 
